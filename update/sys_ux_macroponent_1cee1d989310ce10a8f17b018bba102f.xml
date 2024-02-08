@@ -82,7 +82,7 @@
                                     },
                                     "src": {
                                         "type": "JSON_LITERAL",
-                                        "value": "/needit_logo_purpla.png"
+                                        "value": "/needit_logo_purple.png"
                                     },
                                     "width": {
                                         "type": "JSON_LITERAL",
@@ -640,14 +640,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-02-07 16:16:23</sys_created_on>
         <sys_id>1cee1d989310ce10a8f17b018bba102f</sys_id>
-        <sys_mod_count>6</sys_mod_count>
+        <sys_mod_count>7</sys_mod_count>
         <sys_name>NeedIt User home</sys_name>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
         <sys_policy/>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
         <sys_update_name>sys_ux_macroponent_1cee1d989310ce10a8f17b018bba102f</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-02-07 16:31:09</sys_updated_on>
+        <sys_updated_on>2024-02-08 13:06:36</sys_updated_on>
     </sys_ux_macroponent>
     <sys_translated_text action="delete_multiple" query="documentkey=1cee1d989310ce10a8f17b018bba102f"/>
 </record_update>
